@@ -1,0 +1,22 @@
+[[plugin.deps]]
+use = "yazi-rs/plugins:mount"
+rev = "be524fb"
+hash = "e3260d0b1feded8c8e3ae3afa1169e30"
+
+[[plugin.deps]]
+use = "KKV9/compress"
+rev = "e60e122"
+hash = "fbaf0adc8efc59555b748d36aab62d40"
+
+[[plugin.deps]]
+use = "boydaihungst/gvfs"
+rev = "3abc0a2"
+hash = "eed89e75671723c8f9390a2862af0e4e"
+
+[[plugin.deps]]
+use = "boydaihungst/mediainfo"
+rev = "f1cec0b"
+hash = "fd9312e974c63438b1f8737711462d52"
+
+[flavor]
+deps = []
